@@ -39,4 +39,4 @@ This is a close-up for the state of Chiapas:
      style="float: left; margin-right: 5px;"
      width="600" height="400" />
 
-To find the municipalities that are crossed by a river I could have simply intesected the municipalities' polygons and the rivers' buffers, but I added the centroid component to exemplify its computation. Besides, by using the centroids, we could guarantee that the rivers' buffers crossed a great proportion of the munciipality, just in case we are interesed in finding municipalities with greater exposition to the river.
+To find the municipalities that are crossed by a river I could have simply intesected the municipalities' polygons and the rivers' buffers, but I added the centroid component to exemplify its computation. Besides, by using the centroids, we could guarantee that the rivers' buffers crossed a great proportion of the munciipality, just in case we are interesed in finding municipalities with greater exposition to the rivers.
